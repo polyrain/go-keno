@@ -1,5 +1,26 @@
 # go-keno
 Keno impl in Go, for displaying on a TUI
+
+
+
+
+Todo:
+- Finish rest routes
+- do the DB queries 
+- ???
+- profit
+
+
+
+
+
+
+
+
+
+
+
+
 Placing a Pick
 Request:
 
